@@ -1,7 +1,7 @@
 package AnalyzeTimeComplexity;
 
 public class InsertionSort {
-//insertion sort
+
     public static void insertSort(int[] arr) {
         int insertVal;
         int insertIndex;

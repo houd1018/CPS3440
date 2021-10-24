@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="CPS3440:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CPS3440_jar</output-path>
+    <root id="root">
+      <element id="archive" name="CPS3440.jar">
+        <element id="module-output" name="CPS3440" />
+      </element>
+    </root>
+  </artifact>
+</component>
